@@ -1,5 +1,9 @@
 {
   "expo": {
+    "android": {
+      "jsEngine": "hermes"
+    },
+
     "name": "SignalClone",
     "slug": "SignalClone",
     "version": "1.0.0",
